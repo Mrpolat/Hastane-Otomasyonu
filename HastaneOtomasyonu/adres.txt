@@ -1,0 +1,1 @@
+server=LAPTOP-6130A4EQ; Initial Catalog=HastaneOtomasyon; Integrated Security=true;
